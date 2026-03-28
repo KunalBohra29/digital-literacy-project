@@ -25,5 +25,8 @@ The infographic is titled **"Be Smart Online: A Digital Literacy Guide for Stude
    - Use your college email for academic and professional sign-ups.
 
 ## How to View
-The exported infographic image is saved as `infographic.png` in this folder.
-*(Upload your exported Canva image here as infographic.png)*
+The exported infographic image is saved as `infographic.pdf` in this folder.
+[infographic.pdf](https://github.com/user-attachments/files/26325140/infographic.pdf)
+
+
+
