@@ -65,9 +65,3 @@ Researched and wrote a case study on Identity Theft, covering how it happens, wh
 
 ---
 
-## 🔗 Useful Links
-- 🌐 [National Cyber Crime Portal](https://cybercrime.gov.in)
-- 📞 Cyber Crime Helpline: **1930** (24x7)
-- 💼 [My LinkedIn Profile](#) *(add your link)*
-- 🐙 [My GitHub Profile](https://github.com/25BAI10905) *(update with your username)*
-- 📊 [My Kaggle Profile](#) *(add your link)*
